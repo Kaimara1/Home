@@ -1,2 +1,1 @@
-# Home
-Practice now
+my first practice
